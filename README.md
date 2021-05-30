@@ -27,7 +27,7 @@ Simply clone the repository in your system & run the main.py to start scrapping.
 To make changes to the script just open driver code.py
 
 NOTE: The script is a bit slow as the selenium itself is not the most time saving
-way of scrapping but it does gets the job done.
+way of scrapping but it gets the job done.
 
 ```
 
